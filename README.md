@@ -2,5 +2,5 @@
 Aplicación Android que integra el portal de Empleo Cusco.
 
 <div align="center">
-<img src="https://www.linkpicture.com/q/ezgif-1-5739e64992.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/cJ0t9pt/ezgif-1-ad7a6bcc60.gif" align="center" style="width: 100%" />
 </div>  

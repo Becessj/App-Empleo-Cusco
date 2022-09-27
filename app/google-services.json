@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978275736089",
+    "project_id": "empleo-cusco",
+    "storage_bucket": "empleo-cusco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978275736089:android:1de25c99bd4d383f256888",
+        "android_client_info": {
+          "package_name": "com.guamanpoma.empleocuscojava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978275736089-hpp0ad4ko6m2ijbsv56co8h48e64b6as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7u4i_T6IXG-eVXO5OZikbhlTRP1sN6xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978275736089-hpp0ad4ko6m2ijbsv56co8h48e64b6as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

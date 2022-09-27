@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicio"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/empleos"
+        android:title="Empleos"
+        android:icon="@drawable/ic_empleos"/>
+    <item
+        android:id="@+id/instituciones"
+        android:title="Instituciones"
+        android:icon="@drawable/ic_muni"/>
+    <item
+        android:id="@+id/contacto"
+        android:title="Contacto"
+        android:icon="@drawable/ic_cont"/>
+
+</menu>
